@@ -4,7 +4,7 @@ My name is Ígor and I live in Brazil. I've graduated from Le Wagon's web develo
 Here are some of the projects I'm working on:
 
 - [CadeOTio](http://www.cadeotio.com.br/)
-    - CadeOTio is a mobile-app still under development by my teammates and I. 
+    - CadeOTio is a **mobile-app** still under development by my teammates and I. 
     - [GitHub](https://github.com/bdellacoletta/cade-o-tio)
 - [Watch List](https://rails-watch-list-ricci.herokuapp.com)
 
