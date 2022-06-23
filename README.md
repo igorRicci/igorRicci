@@ -10,6 +10,8 @@ Here are some of the **projects** I've been working on:
     - SetimoAnder is a web app where you can buy and sell real estate.
     - You can find the [code here](https://github.com/matheusfortini7/setimo_andar)
 - [Watch List](https://rails-watch-list-ricci.herokuapp.com)
+    - A website to create lists if your favorite movies
+    - [code](https://github.com/igorRicci/rails-watch-list)
 
 
 
