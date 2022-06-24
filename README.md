@@ -1,7 +1,8 @@
-### Hi there 👋
-My name is Ígor and I live in Brazil. I've graduated from Le Wagon's web development batch #898 in São Paulo.
+<h1 align="center">Hi there 👋</h1> 
 
-Here are some of the **projects** I've been working on:
+<p>My name is Ígor and I live in Brazil, São Paulo. I've graduated from Le Wagon's web development batch #898 in São Paulo.</p>
+
+<p>Here are some of the <strong>projects</strong> I've been working on:</p>
 
 - [CadeOTio](http://www.cadeotio.com.br/)
     - CadeOTio is a **mobile-app** still under development by my teammates and I that allows school drivers to show their geolocation in real-time. 
@@ -14,10 +15,9 @@ Here are some of the **projects** I've been working on:
     - [code](https://github.com/igorRicci/rails-watch-list)
 
 
+<h2 align="center">Skills</h2>
 
-### Skills
-
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -32,6 +32,14 @@ Here are some of the **projects** I've been working on:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<h3 align="center">   
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=igorRicci&theme=vue)](https://git.io/streak-stats)
+
+</h3>
 
 
 ### Socials
