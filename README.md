@@ -10,7 +10,7 @@
     - CadeOTio is a **mobile-app** still under development by my teammates and I that allows school drivers to show their geolocation in real-time. 
     - You can find the [code here](https://github.com/bdellacoletta/cade-o-tio)
 - [MarketPlace](https://setimo-andar-matheusfortini7.herokuapp.com/)
-    - SetimoAnder is a web app where you can buy and sell real estate.
+    - SetimoAnder is a web app where you can buy and sell real estate (mockup).
     - You can find the [code here](https://github.com/matheusfortini7/setimo_andar)
 - [Watch List](https://rails-watch-list-ricci.herokuapp.com)
     - A website to create lists if your favorite movies
