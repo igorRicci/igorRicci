@@ -43,12 +43,17 @@
 
 </h3>
 
+<h3 align="center"> 
 
-### Socials
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorricci)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://www.linkedin.com/in/igorricci33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+</h3>
 
-✉️  You can contact me at [assis.ricci@gmail.com](mailto:assis.ricci@gmail.com)
+<h2 align="center">Socials</h2>
+
+<p align="center"> <a href="https://www.linkedin.com/in/igorricci33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+✉️  You can <strong>contact</strong> me at [assis.ricci@gmail.com](mailto:assis.ricci@gmail.com)
 
 
 
