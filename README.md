@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1> 
+<h1 align="center">Hi there 👋 I'm Ígor</h1> 
 
-<p>I'm Ígor and I live in Brazil, São Paulo. I've graduated from Le Wagon's web development bootcamp, in batch #898, São Paulo.</p>
+<p>I live in Brazil, São Paulo. I've graduated from Le Wagon's web development bootcamp, in batch #898, São Paulo.</p>
 
 <p>I love the programming world. I know I'll never know everything, but that's actually the exciting part: <em>endless possibilities</em>.</p>
 
