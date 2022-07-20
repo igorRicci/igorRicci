@@ -53,7 +53,7 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/igorricci33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-✉️  You can <strong>contact</strong> me at [assis.ricci@gmail.com](mailto:assis.ricci@gmail.com)
+✉️  You can <strong>contact</strong> me at [igorasricci@gmail.com](mailto:igorasricci@gmail.com)
 
 
 
