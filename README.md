@@ -51,7 +51,8 @@
 
 <h2 align="center">Socials</h2>
 
-<p align="center"> <a href="https://www.linkedin.com/in/igorricci33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/igorricci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ <a href="https://www.instagram.com/igor.ricci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ✉️  You can <strong>contact</strong> me at [igorasricci@gmail.com](mailto:igorasricci@gmail.com)
 
