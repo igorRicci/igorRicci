@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Ígor</h1> 
 
-<p>I live in São Paulo, Brazil. I've graduated from Le Wagon's web development bootcamp, in batch #898, São Paulo.</p>
+<p>I live in Stuttgart, Germany. I'm currently working as a Back-end Developer at straiv by CODE2ORDER</p>
 
 <p>I love the programming world. I know I'll never know everything, but that's actually the exciting part: <em>endless possibilities</em>.</p>
 
-<p>Here are some of the <strong>projects</strong> I've been working on:</p>
+<p>Here are some of the <strong>projects</strong> I worked on during bootcamp:</p>
 
 - [CadeOTio](http://www.cadeotio.com.br/)
     - CadeOTio is a **mobile-app** still under development by my teammates and I that allows school drivers to show their geolocation in real-time. 
